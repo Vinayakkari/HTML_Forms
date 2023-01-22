@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://res.cloudinary.com/highereducation/image/upload/v1533591754/TheBestColleges.org/study-notebooks.jpg);
+    display: flex;
+    background-size: cover;
+    color: aliceblue;
+    width: fit-content;
+    
+}
+fieldset{
+    
+    background-color: rgba(0, 0, 0, 0.7);
+}
+button{
+    padding: 5px;
+    margin: 0 0 0 450px;
+    background-color:brown;
+    border-radius: 10px;
+}
+input{
+    padding: 5px;
+    margin: 0px;
+    width: 250px;
+}
+h2,p{
+    text-align: center;
+}
